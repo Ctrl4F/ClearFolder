@@ -8,6 +8,7 @@ namespace CreateDirectory
         static void Main(string[] args)
         {
             CreateFolderOne();
+            CreateFolderTwo();
         }
         public static void CreateFolderOne()
         {
